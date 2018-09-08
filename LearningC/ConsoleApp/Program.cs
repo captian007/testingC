@@ -8,7 +8,7 @@ namespace ConsoleApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Write Something");
             var name = Console.ReadLine();
